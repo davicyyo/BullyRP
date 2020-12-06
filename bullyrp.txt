@@ -1,0 +1,8 @@
+"bullyrp"
+{
+	"base"		"sandbox"
+	"title"		"BullyRP"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+
+}
